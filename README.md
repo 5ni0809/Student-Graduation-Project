@@ -7,13 +7,16 @@
 ### 開發環境 & 訓練模型
 軟體 : 
 1. 以 MATLAB 平台撰寫
-
-2. 使用 AlexNet 作為深度學習的訓練模型
+2. 使用 CNN (AlexNet) 作為深度學習的訓練模型
 
 硬體 : 
 
 1. 電腦 : ASUS ( X555LB ) GPU NVIDIA 2080Ti
-  
 2. 網路攝影機 : USB2.0 WebCam ( Logitech HD webcam C525 )
 
-### 閱讀流程
+安裝MATLAB工具箱
+
+1. 自動駕駛系統工具箱 ( Automated Driving System Toolbox™ )
+2. 深度學習工具箱 ( Deep Learning Toolbox ™ )
+3. USB網路攝影機MATLAB支援包 ( MATLAB Support Package for USB Webcams )
+
